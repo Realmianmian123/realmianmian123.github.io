@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="82" height="26" viewBox="0 0 82 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 25">
+<path id="Star 1" d="M13 0L15.3083 7.42716L22.1924 3.80761L18.5728 10.6917L26 13L18.5728 15.3083L22.1924 22.1924L15.3083 18.5728L13 26L10.6917 18.5728L3.80761 22.1924L7.42716 15.3083L0 13L7.42716 10.6917L3.80761 3.80761L10.6917 7.42716L13 0Z" fill="url(#paint0_linear_0_43)"/>
+<circle id="Ellipse 4" cx="48" cy="13" r="6" fill="#CDC9DD"/>
+<circle id="Ellipse 5" cx="76" cy="13" r="6" fill="#CDC9DD"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_43" x1="13" y1="0" x2="13" y2="26" gradientUnits="userSpaceOnUse">
+<stop stop-color="#75EAFF"/>
+<stop offset="1" stop-color="#B5A4E2"/>
+</linearGradient>
+</defs>
+</svg>
